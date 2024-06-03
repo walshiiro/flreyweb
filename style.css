@@ -1,0 +1,407 @@
+.frame {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-group-wrapper {
+  overflow-x: hidden;
+  width: 1920px;
+  height: 2903px;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 1952px;
+  height: 644px;
+  top: 0;
+  left: 0;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 2504px;
+  top: 44px;
+  left: 13px;
+  background-color: #2f2d2d;
+}
+
+.frame .div {
+  position: absolute;
+  width: 1920px;
+  height: 486px;
+  top: 158px;
+  left: 11px;
+  background-color: #f8e6fc;
+  border-radius: 30px;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  top: 11px;
+  left: 41px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 18px;
+  height: 5px;
+  top: 12px;
+  left: 42px;
+  background-color: #d9d9d9;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 1920px;
+  height: 187px;
+  top: 0;
+  left: 13px;
+  background-color: #dcdcfe;
+}
+
+.frame .icon {
+  position: absolute;
+  width: 410px;
+  height: 190px;
+  top: 0;
+  left: 11px;
+  object-fit: cover;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 337px;
+  height: 66px;
+  top: 62px;
+  left: 872px;
+  background-color: #c9c9f9;
+  border-radius: 20px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 291px;
+  top: 72px;
+  left: 903px;
+  text-shadow: 0px 4px 4px #00000040;
+  -webkit-text-stroke: 1px #8b2020;
+  font-family: "Inter-SemiBold Italic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #fb848d;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .image {
+  width: 592px;
+  height: 301px;
+  top: 697px;
+  left: 138px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .img {
+  width: 256px;
+  height: 251px;
+  top: 844px;
+  left: 609px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-2 {
+  width: 579px;
+  height: 474px;
+  top: 1341px;
+  left: 1035px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-3 {
+  width: 218px;
+  height: 202px;
+  top: 1706px;
+  left: 1501px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-4 {
+  width: 271px;
+  height: 260px;
+  top: 791px;
+  left: 1px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-5 {
+  width: 430px;
+  height: 423px;
+  top: 1933px;
+  left: 179px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-6 {
+  width: 222px;
+  height: 251px;
+  top: 2203px;
+  left: 500px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 1920px;
+  height: 402px;
+  top: 2504px;
+  left: 11px;
+  background-color: #181717;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 2704px;
+  left: 134px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  width: 498px;
+  top: 2669px;
+  left: 11px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  width: 246px;
+  top: 2631px;
+  left: 41px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-7 {
+  width: 25px;
+  height: 25px;
+  top: 2670px;
+  left: 104px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-8 {
+  width: 25px;
+  height: 19px;
+  top: 2710px;
+  left: 104px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .div-2 {
+  position: absolute;
+  width: 600px;
+  height: 100px;
+  top: 446px;
+  left: 1140px;
+  background-color: #2f2d2d;
+  border-radius: 30px;
+}
+
+.frame .div-3 {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+  top: 0;
+  left: 418px;
+  background-image: url(./img/frame-4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  top: 25px;
+  left: 68px;
+  font-family: "Inter-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .discord {
+  position: absolute;
+  width: 600px;
+  height: 100px;
+  top: 256px;
+  left: 1140px;
+  background-color: #37396c;
+  border-radius: 30px;
+}
+
+.frame .div-4 {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+  top: 0;
+  left: 418px;
+  background-image: url(./img/frame-4-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  top: 25px;
+  left: 68px;
+  font-family: "Inter-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #818cff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .user-page-show-of {
+  position: absolute;
+  top: 804px;
+  left: 933px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #dcdcfe;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .span {
+  font-weight: 800;
+}
+
+.frame .text-wrapper-5 {
+  font-family: "Inter-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.frame .character-pages {
+  position: absolute;
+  top: 1486px;
+  left: 201px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #dcdcfe;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .artifacts-showcase {
+  position: absolute;
+  top: 2057px;
+  left: 830px;
+  font-family: "Inter-ExtraBold", Helvetica;
+  font-weight: 400;
+  color: #dcdcfe;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-9 {
+  width: 239px;
+  height: 218px;
+  top: 426px;
+  left: 785px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .image-10 {
+  width: 180px;
+  height: 166px;
+  top: 223px;
+  left: 1px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .flrey-is-a-discord {
+  position: absolute;
+  width: 849px;
+  top: 408px;
+  left: 0;
+  -webkit-text-stroke: 1px #afa0ee;
+  font-family: "Inter-Light", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-6 {
+  font-family: "Inter-LightItalic", Helvetica;
+  font-weight: 300;
+  font-style: italic;
+  color: #139bff;
+}
+
+.frame .text-wrapper-7 {
+  font-family: "Inter-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #3bacdd;
+}
+
+
+
+
+
